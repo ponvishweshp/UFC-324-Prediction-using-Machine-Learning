@@ -49,9 +49,6 @@ Logistic Regression
 
 Random Forest
 
-Gradient Boosting
-
-Neural Network (MLP)
 
 Model outputs were ensembled to reduce bias and variance.
 
@@ -123,21 +120,8 @@ Matplotlib / Seaborn
 
 Jupyter / Google Colab
 
-📁 Repository Structure
-├── data/
-│   └── fight_stats.csv
-├── feature_engineering/
-│   └── composite_features.py
-├── models/
-│   ├── train_models.py
-│   └── ensemble.py
-├── simulation/
-│   └── monte_carlo.py
-├── notebooks/
-│   └── analysis.ipynb
-├── results/
-│   └── simulation_outputs.csv
-└── README.md
+  Update: The model successfully predicted the winner of the match, prior to the event.
+  
 
 🚀 Future Improvements
 
